@@ -24,7 +24,7 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-          The skills section of my work portfolio showcases my technical expertise and professional capabilities. From programming languages and data analysis tools to soft skills and industry-specific knowledge, these skills have been developed through years of experience and education.
+          Display of technical skills and professional capabilities. Skills have been steadily developed through years of experience and education. Through the utilization of both technical and soft skills I am able to deliver key information in appropriate formats that drive solutions. 
           </p>
         </motion.div>
 
@@ -64,13 +64,13 @@ const MySkills = () => {
             <div className="z-10">
               <p className="font-playfair font-semibold text-5xl">01</p>
               <p className="font-playfair font-semibold text-3xl mt-3">
-                Hard Skills
+                Technical Skills
               </p>
             </div>
             <div className="w-1/2 md:w-3/4 h-32 bg-grey-blue absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-          Experienced data analyst skilled in R, SQL, Excel, Tableau, machine learning, statistical models, and web scraping. Proven record of extracting insights from complex data sets, developing models and algorithms, and creating visualizations and reports that support decision-making.  
+          Experienced Data Analyst trained in R, Python, SQL, Excel and Tableau. Capable of utilizing approaches such as Data Exploration, Manipulation, Visualization, Data Validation, Machine Learning, APIs, and statistical models. Proven record of extracting key insights from complex dirty data sets, developing models and algorithms, and creating visualizations and reports that support decision making.  
           </p>
         </motion.div>
 
@@ -96,7 +96,7 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-blue5 absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-          Holder of a B.S. in Business Administration from the University of Charleston, WV and a current M.S. student in Data Analytics and Computational Social Science at the University of Massachusetts. 
+          M.S in Data Analytics and Computational Social Science from the University of Massachusetts with a 3.87 GPA. B.S in Business Administration from the University of Charleston, WV.  
           </p>
         </motion.div>
         {/* IMAGINATIVE */}
@@ -121,7 +121,7 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-blue4 absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-          As a data analyst, I possess strong soft skills, including critical thinking, problem-solving, communication, and collaboration. I am detail-oriented, self-motivated, and can work independently or within a team. I also have the ability to manage my time effectively and meet tight deadlines.
+          To support technical abilities, I possess strong soft skills, including critical thinking, problem-solving, communication, collaboration, efficient information extraction. I am detail-oriented, self-motivated, and can work independently or within a team. I also have the ability to manage my time effectively to meet tight deadlines. 
           </p>
         </motion.div>
       </div>

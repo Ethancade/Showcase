@@ -57,8 +57,8 @@ const Projects = () => {
           </div>
         </div>
         <p className="mt-10 mb-10">
-          Projects utilizing R and Python to help deliever a story driven solution
-          to analytical problems from statistical analysis to textual analysis.
+          Projects utilizing R, Python, SQL, and Tableau to help deliever a story driven solution
+          to analytical problems.
         </p>
       </motion.div>
 
@@ -76,29 +76,44 @@ const Projects = () => {
             className="flex justify-center text-center items-center p-10 bg-blue4
               max-w-[400px] max-h-[400px] text-2xl font-playfair font-semibold"
           >
-            BEAUTIFUL USER INTERFACES
+            
           </div>
           <a href="https://ethancade.github.io/Website/posts/QuantitativeAnalysis.html">
-          <Project title="Quantitative Analysis" />
+          <Project title="R Quantitative Analysis" />
           </a>
 
           <a href="https://ethancade.github.io/Website/posts/TextAnalysis.html">
-          <Project title="Textual Analysis" />
+          <Project title="R Textual Analysis" />
           </a>
           {/* ROW 2 */}
           <a href="https://rpubs.com/EthanCampbell/900466">
-          <Project title="Weather Project" />
+          <Project title="R Weather Project" />
           </a>
           <a href="https://github.com/EthanCCampbell/Portfolio-Projects/blob/main/PythonPortfolioProject.ipynb">
-          <Project title="Movie Correlation" />
+          <Project title="Python Correlation" />
+          </a>
+          {/* ROW 3 */}
+          <a href="https://github.com/EthanCCampbell/Portfolio-Projects/blob/main/SQLDataExplorationPortfolioProject.sql">
+          <Project title="SQL Exporlation" />
+          </a>
+          <a href="https://github.com/EthanCCampbell/Portfolio-Projects/blob/main/SQLDataCleaningPortfolioProject.sql">
+          <Project title="SQL Cleaning" />
           </a>
 
-          {/* ROW 3 */}
+          {/* ROW 4 */}
+          <a href="https://github.com/Ethancade/Work-Portfolio/blob/main/posts/Final_Project.ipynb">
+          <Project title="Python Stock API" />
+          </a>
+          <a href="https://public.tableau.com/app/profile/ethan.campbell5348/vizzes">
+          <Project title="Tablue Visualizations" />
+
+          {/* ROW 5 */}
+          </a>
           <div
             className="flex justify-center text-center items-center p-10 bg-blue5
               max-w-[400px] max-h-[400px] text-2xl font-playfair font-semibold"
           >
-            SMOOTH USER EXPERIENCE
+            
           </div>
         </motion.div>
       </div>

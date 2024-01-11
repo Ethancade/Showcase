@@ -55,11 +55,7 @@ const Landing = ({ setSelectedPage }) => {
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-          Hello, my name is Ethan Campbell and I am a Data Analytic and Computational Social Science Master student at University of Massachusetts Amherst 
-          focusing on analyzing data to drive decision making through statistical methodology and logical processes. I earned my B.S in Business Administration 
-          at the University of Charleston, WV. My research includes, climate change, economics, computational social science. I am wanting to expand my knowledge 
-          into a diverse and creative company that is always innovating unique solutions. Thank you for taking some time to get to know me. I would love to get in 
-          touch and learn more about how we can work together. Below you can find my resume and contact information.
+          My name is Ethan Campbell, I am a Data Analyst/Business Analyst with a M.S in Data Analytics and Computational Social Science from the University of Massachusetts. To support the technical degree, I received a B.S in Business Administration from the University of Charleston, WV to expand my business mindset and bridge the gap between decision makers and analytical solutions. My expertise is in economics and banking. I am seeking to expand my knowledge in a diverse and creative company that pushes innovative unique solutions. I would love to get in touch and learn more about how we can work together. Below you can find my resume and contact information. 
           </p>
         </motion.div>
 
