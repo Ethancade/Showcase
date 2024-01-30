@@ -94,7 +94,7 @@ const Projects = () => {
           </a>
           {/* ROW 3 */}
           <a href="https://github.com/EthanCCampbell/Portfolio-Projects/blob/main/SQLDataExplorationPortfolioProject.sql">
-          <Project title="SQL Exporlation" />
+          <Project title="SQL Exploration" />
           </a>
           <a href="https://github.com/EthanCCampbell/Portfolio-Projects/blob/main/SQLDataCleaningPortfolioProject.sql">
           <Project title="SQL Cleaning" />
