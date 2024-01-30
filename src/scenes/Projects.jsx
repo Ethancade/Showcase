@@ -105,7 +105,7 @@ const Projects = () => {
           <Project title="Python Stock API" />
           </a>
           <a href="https://public.tableau.com/app/profile/ethan.campbell5348/vizzes">
-          <Project title="Tablue Visualizations" />
+          <Project title="Tableau Visualizations" />
 
           {/* ROW 5 */}
           </a>
