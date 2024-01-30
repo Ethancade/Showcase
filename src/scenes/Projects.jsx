@@ -28,7 +28,7 @@ const Project = ({ title }) => {
         
         </p>
       </div>
-      <img src={`../assets/${projectTitle}.jpeg`} alt={projectTitle} />
+      <img src={`../assets/${projectTitle}.jpg`} alt={projectTitle} />
     </motion.div>
   );
 };
