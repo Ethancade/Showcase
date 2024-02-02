@@ -55,7 +55,7 @@ const Landing = ({ setSelectedPage }) => {
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-          My name is Ethan Campbell, I am a Data Analyst/Business Analyst with a M.S in Data Analytics and Computational Social Science from the University of Massachusetts. To support the technical degree, I received a B.S in Business Administration from the University of Charleston, WV to expand my business mindset and bridge the gap between decision makers and analytical solutions. My expertise is in economics and banking. I am seeking to expand my knowledge in a diverse and creative company that pushes innovative unique solutions. I would love to get in touch and learn more about how we can work together. Below you can find my resume and contact information. 
+          My name is Ethan Campbell, I am a Data Analyst/Business Analyst with a M.S in Data Analytics and Computational Social Science from the University of Massachusetts. To support the technical degree, I received a B.S in Business Administration from the University of Charleston, WV to expand my business mindset and bridge the gap between decision makers and analytical solutions. My expertise is in economics and banking. I am seeking to expand my knowledge in a diverse and creative company that pushes innovative unique solutions. Below you can find my projects, skills, and contact information. 
           </p>
         </motion.div>
 
