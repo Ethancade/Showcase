@@ -107,7 +107,7 @@ const Projects = () => {
           <a href="https://public.tableau.com/app/profile/ethan.campbell5348/vizzes">
           <Project title="Tableau Visualizations" />
 
-          {/* ROW 5 */}
+
           </a>
           <div
             className="flex justify-center text-center items-center p-10 bg-blue4

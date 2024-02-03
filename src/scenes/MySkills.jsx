@@ -37,11 +37,11 @@ const MySkills = () => {
               <img
                 alt="skills"
                 className="z-10"
-                src="assets/skills-image.jpg"
+                src="assets/skills-image.png"
               />
             </div>
           ) : (
-            <img alt="skills" className="z-10" src="assets/skills-image.jpg" />
+            <img alt="skills" className="z-10" src="assets/skills-image.png" />
           )}
         </div>
       </div>
