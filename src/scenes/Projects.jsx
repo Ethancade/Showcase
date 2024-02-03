@@ -86,7 +86,9 @@ const Projects = () => {
           <Project title="R Textual Analysis" />
           </a>
           {/* ROW 2 */}
-          
+          <a href="https://rpubs.com/EthanCampbell/900466">
+          <Project title="R Weather Project" />
+          </a>
           <a href="https://github.com/EthanCCampbell/Portfolio-Projects/blob/main/PythonPortfolioProject.ipynb">
           <Project title="Python Correlation" />
           </a>
@@ -104,6 +106,7 @@ const Projects = () => {
           </a>
           <a href="https://public.tableau.com/app/profile/ethan.campbell5348/vizzes">
           <Project title="Tableau Visualizations" />
+
 
           </a>
           <div
