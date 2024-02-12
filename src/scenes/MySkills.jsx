@@ -24,7 +24,7 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-          Display of technical skills and professional capabilities. Skills have been steadily developed through years of experience and education. Through the utilization of both technical and soft skills I am able to deliver key information in appropriate formats that drive solutions. 
+          Display of technical skills and professional capabilities. Skills have been steadily developed through years of experience and education. Through the utilization of both technical and soft skills, I am able to deliver key information in appropriate formats that drive solutions. 
           </p>
         </motion.div>
 
@@ -96,7 +96,7 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-blue5 absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-          M.S in Data Analytics and Computational Social Science from the University of Massachusetts with a 3.87 GPA. B.S in Business Administration from the University of Charleston, WV.  
+          M.S. in Data Analytics and Computational Social Science from the University of Massachusetts with a 3.87 GPA. B.S. in Business Administration from the University of Charleston, WV.  
           </p>
         </motion.div>
         {/* IMAGINATIVE */}
